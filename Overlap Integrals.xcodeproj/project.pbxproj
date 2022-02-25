@@ -17,6 +17,50 @@
 		A568547B27C744F200CD49B6 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568545327C744F100CD49B6 /* ContentView.swift */; };
 		A568547C27C744F200CD49B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A568545427C744F200CD49B6 /* Assets.xcassets */; };
 		A568547D27C744F200CD49B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A568545427C744F200CD49B6 /* Assets.xcassets */; };
+		A568549627C7456800CD49B6 /* PlotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548C27C7456700CD49B6 /* PlotView.swift */; };
+		A568549727C7456800CD49B6 /* PlotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548C27C7456700CD49B6 /* PlotView.swift */; };
+		A568549827C7456800CD49B6 /* PlotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548C27C7456700CD49B6 /* PlotView.swift */; };
+		A568549927C7456800CD49B6 /* PlotView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548C27C7456700CD49B6 /* PlotView.swift */; };
+		A568549A27C7456800CD49B6 /* CorePlot.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548D27C7456800CD49B6 /* CorePlot.swift */; };
+		A568549B27C7456800CD49B6 /* CorePlot.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548D27C7456800CD49B6 /* CorePlot.swift */; };
+		A568549C27C7456800CD49B6 /* CorePlot.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548D27C7456800CD49B6 /* CorePlot.swift */; };
+		A568549D27C7456800CD49B6 /* CorePlot.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548D27C7456800CD49B6 /* CorePlot.swift */; };
+		A568549E27C7456800CD49B6 /* ChangingPlotParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548E27C7456800CD49B6 /* ChangingPlotParameters.swift */; };
+		A568549F27C7456800CD49B6 /* ChangingPlotParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548E27C7456800CD49B6 /* ChangingPlotParameters.swift */; };
+		A56854A027C7456800CD49B6 /* ChangingPlotParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548E27C7456800CD49B6 /* ChangingPlotParameters.swift */; };
+		A56854A127C7456800CD49B6 /* ChangingPlotParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548E27C7456800CD49B6 /* ChangingPlotParameters.swift */; };
+		A56854A227C7456800CD49B6 /* PlotClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548F27C7456800CD49B6 /* PlotClass.swift */; };
+		A56854A327C7456800CD49B6 /* PlotClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548F27C7456800CD49B6 /* PlotClass.swift */; };
+		A56854A427C7456800CD49B6 /* PlotClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548F27C7456800CD49B6 /* PlotClass.swift */; };
+		A56854A527C7456800CD49B6 /* PlotClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568548F27C7456800CD49B6 /* PlotClass.swift */; };
+		A56854A627C7456800CD49B6 /* CalculatePlotData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549027C7456800CD49B6 /* CalculatePlotData.swift */; };
+		A56854A727C7456800CD49B6 /* CalculatePlotData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549027C7456800CD49B6 /* CalculatePlotData.swift */; };
+		A56854A827C7456800CD49B6 /* CalculatePlotData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549027C7456800CD49B6 /* CalculatePlotData.swift */; };
+		A56854A927C7456800CD49B6 /* CalculatePlotData.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549027C7456800CD49B6 /* CalculatePlotData.swift */; };
+		A56854AA27C7456800CD49B6 /* MonteCarlo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549127C7456800CD49B6 /* MonteCarlo.swift */; };
+		A56854AB27C7456800CD49B6 /* MonteCarlo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549127C7456800CD49B6 /* MonteCarlo.swift */; };
+		A56854AC27C7456800CD49B6 /* MonteCarlo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549127C7456800CD49B6 /* MonteCarlo.swift */; };
+		A56854AD27C7456800CD49B6 /* MonteCarlo.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549127C7456800CD49B6 /* MonteCarlo.swift */; };
+		A56854AE27C7456800CD49B6 /* BoundingBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549227C7456800CD49B6 /* BoundingBox.swift */; };
+		A56854AF27C7456800CD49B6 /* BoundingBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549227C7456800CD49B6 /* BoundingBox.swift */; };
+		A56854B027C7456800CD49B6 /* BoundingBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549227C7456800CD49B6 /* BoundingBox.swift */; };
+		A56854B127C7456800CD49B6 /* BoundingBox.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549227C7456800CD49B6 /* BoundingBox.swift */; };
+		A56854B227C7456800CD49B6 /* Wavefunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549327C7456800CD49B6 /* Wavefunctions.swift */; };
+		A56854B327C7456800CD49B6 /* Wavefunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549327C7456800CD49B6 /* Wavefunctions.swift */; };
+		A56854B427C7456800CD49B6 /* Wavefunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549327C7456800CD49B6 /* Wavefunctions.swift */; };
+		A56854B527C7456800CD49B6 /* Wavefunctions.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549327C7456800CD49B6 /* Wavefunctions.swift */; };
+		A56854B627C7456800CD49B6 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549427C7456800CD49B6 /* DrawingView.swift */; };
+		A56854B727C7456800CD49B6 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549427C7456800CD49B6 /* DrawingView.swift */; };
+		A56854B827C7456800CD49B6 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549427C7456800CD49B6 /* DrawingView.swift */; };
+		A56854B927C7456800CD49B6 /* DrawingView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549427C7456800CD49B6 /* DrawingView.swift */; };
+		A56854BA27C7456800CD49B6 /* PlotDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549527C7456800CD49B6 /* PlotDataClass.swift */; };
+		A56854BB27C7456800CD49B6 /* PlotDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549527C7456800CD49B6 /* PlotDataClass.swift */; };
+		A56854BC27C7456800CD49B6 /* PlotDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549527C7456800CD49B6 /* PlotDataClass.swift */; };
+		A56854BD27C7456800CD49B6 /* PlotDataClass.swift in Sources */ = {isa = PBXBuildFile; fileRef = A568549527C7456800CD49B6 /* PlotDataClass.swift */; };
+		A56854C027C7458E00CD49B6 /* CorePlot in Frameworks */ = {isa = PBXBuildFile; productRef = A56854BF27C7458E00CD49B6 /* CorePlot */; };
+		A56854C327C745D300CD49B6 /* CorePlot in Frameworks */ = {isa = PBXBuildFile; productRef = A56854C227C745D300CD49B6 /* CorePlot */; };
+		A56854C527C745DD00CD49B6 /* CorePlot in Frameworks */ = {isa = PBXBuildFile; productRef = A56854C427C745DD00CD49B6 /* CorePlot */; };
+		A56854C727C745E000CD49B6 /* CorePlot in Frameworks */ = {isa = PBXBuildFile; productRef = A56854C627C745E000CD49B6 /* CorePlot */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +92,16 @@
 		A568547027C744F200CD49B6 /* Tests macOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests macOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A568547427C744F200CD49B6 /* Tests_macOS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOS.swift; sourceTree = "<group>"; };
 		A568547627C744F200CD49B6 /* Tests_macOSLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Tests_macOSLaunchTests.swift; sourceTree = "<group>"; };
+		A568548C27C7456700CD49B6 /* PlotView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlotView.swift; sourceTree = "<group>"; };
+		A568548D27C7456800CD49B6 /* CorePlot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CorePlot.swift; sourceTree = "<group>"; };
+		A568548E27C7456800CD49B6 /* ChangingPlotParameters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ChangingPlotParameters.swift; sourceTree = "<group>"; };
+		A568548F27C7456800CD49B6 /* PlotClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlotClass.swift; sourceTree = "<group>"; };
+		A568549027C7456800CD49B6 /* CalculatePlotData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CalculatePlotData.swift; sourceTree = "<group>"; };
+		A568549127C7456800CD49B6 /* MonteCarlo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MonteCarlo.swift; sourceTree = "<group>"; };
+		A568549227C7456800CD49B6 /* BoundingBox.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BoundingBox.swift; sourceTree = "<group>"; };
+		A568549327C7456800CD49B6 /* Wavefunctions.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Wavefunctions.swift; sourceTree = "<group>"; };
+		A568549427C7456800CD49B6 /* DrawingView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawingView.swift; sourceTree = "<group>"; };
+		A568549527C7456800CD49B6 /* PlotDataClass.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlotDataClass.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +109,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A56854C027C7458E00CD49B6 /* CorePlot in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -62,6 +117,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A56854C327C745D300CD49B6 /* CorePlot in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -69,6 +125,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A56854C527C745DD00CD49B6 /* CorePlot in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -76,6 +133,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A56854C727C745E000CD49B6 /* CorePlot in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -89,6 +147,7 @@
 				A568546727C744F200CD49B6 /* Tests iOS */,
 				A568547327C744F200CD49B6 /* Tests macOS */,
 				A568545A27C744F200CD49B6 /* Products */,
+				A56854C127C745D300CD49B6 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -97,6 +156,16 @@
 			children = (
 				A568545227C744F100CD49B6 /* Overlap_IntegralsApp.swift */,
 				A568545327C744F100CD49B6 /* ContentView.swift */,
+				A568549227C7456800CD49B6 /* BoundingBox.swift */,
+				A568549027C7456800CD49B6 /* CalculatePlotData.swift */,
+				A568548E27C7456800CD49B6 /* ChangingPlotParameters.swift */,
+				A568548D27C7456800CD49B6 /* CorePlot.swift */,
+				A568549427C7456800CD49B6 /* DrawingView.swift */,
+				A568549127C7456800CD49B6 /* MonteCarlo.swift */,
+				A568548F27C7456800CD49B6 /* PlotClass.swift */,
+				A568549527C7456800CD49B6 /* PlotDataClass.swift */,
+				A568548C27C7456700CD49B6 /* PlotView.swift */,
+				A568549327C7456800CD49B6 /* Wavefunctions.swift */,
 				A568545427C744F200CD49B6 /* Assets.xcassets */,
 			);
 			path = Shared;
@@ -131,6 +200,13 @@
 			path = "Tests macOS";
 			sourceTree = "<group>";
 		};
+		A56854C127C745D300CD49B6 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
@@ -147,6 +223,9 @@
 			dependencies = (
 			);
 			name = "Overlap Integrals (iOS)";
+			packageProductDependencies = (
+				A56854BF27C7458E00CD49B6 /* CorePlot */,
+			);
 			productName = "Overlap Integrals (iOS)";
 			productReference = A568545927C744F200CD49B6 /* Overlap Integrals.app */;
 			productType = "com.apple.product-type.application";
@@ -164,6 +243,9 @@
 			dependencies = (
 			);
 			name = "Overlap Integrals (macOS)";
+			packageProductDependencies = (
+				A56854C227C745D300CD49B6 /* CorePlot */,
+			);
 			productName = "Overlap Integrals (macOS)";
 			productReference = A568545F27C744F200CD49B6 /* Overlap Integrals.app */;
 			productType = "com.apple.product-type.application";
@@ -182,6 +264,9 @@
 				A568546627C744F200CD49B6 /* PBXTargetDependency */,
 			);
 			name = "Tests iOS";
+			packageProductDependencies = (
+				A56854C427C745DD00CD49B6 /* CorePlot */,
+			);
 			productName = "Tests iOS";
 			productReference = A568546427C744F200CD49B6 /* Tests iOS.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
@@ -200,6 +285,9 @@
 				A568547227C744F200CD49B6 /* PBXTargetDependency */,
 			);
 			name = "Tests macOS";
+			packageProductDependencies = (
+				A56854C627C745E000CD49B6 /* CorePlot */,
+			);
 			productName = "Tests macOS";
 			productReference = A568547027C744F200CD49B6 /* Tests macOS.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
@@ -239,6 +327,9 @@
 				Base,
 			);
 			mainGroup = A568544C27C744F100CD49B6;
+			packageReferences = (
+				A56854BE27C7458E00CD49B6 /* XCRemoteSwiftPackageReference "core-plot" */,
+			);
 			productRefGroup = A568545A27C744F200CD49B6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -289,8 +380,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A56854B227C7456800CD49B6 /* Wavefunctions.swift in Sources */,
+				A56854BA27C7456800CD49B6 /* PlotDataClass.swift in Sources */,
 				A568547A27C744F200CD49B6 /* ContentView.swift in Sources */,
+				A568549A27C7456800CD49B6 /* CorePlot.swift in Sources */,
+				A568549E27C7456800CD49B6 /* ChangingPlotParameters.swift in Sources */,
+				A56854AE27C7456800CD49B6 /* BoundingBox.swift in Sources */,
+				A568549627C7456800CD49B6 /* PlotView.swift in Sources */,
+				A56854A627C7456800CD49B6 /* CalculatePlotData.swift in Sources */,
 				A568547827C744F200CD49B6 /* Overlap_IntegralsApp.swift in Sources */,
+				A56854A227C7456800CD49B6 /* PlotClass.swift in Sources */,
+				A56854B627C7456800CD49B6 /* DrawingView.swift in Sources */,
+				A56854AA27C7456800CD49B6 /* MonteCarlo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,8 +399,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A56854B327C7456800CD49B6 /* Wavefunctions.swift in Sources */,
+				A56854BB27C7456800CD49B6 /* PlotDataClass.swift in Sources */,
 				A568547B27C744F200CD49B6 /* ContentView.swift in Sources */,
+				A568549B27C7456800CD49B6 /* CorePlot.swift in Sources */,
+				A568549F27C7456800CD49B6 /* ChangingPlotParameters.swift in Sources */,
+				A56854AF27C7456800CD49B6 /* BoundingBox.swift in Sources */,
+				A568549727C7456800CD49B6 /* PlotView.swift in Sources */,
+				A56854A727C7456800CD49B6 /* CalculatePlotData.swift in Sources */,
 				A568547927C744F200CD49B6 /* Overlap_IntegralsApp.swift in Sources */,
+				A56854A327C7456800CD49B6 /* PlotClass.swift in Sources */,
+				A56854B727C7456800CD49B6 /* DrawingView.swift in Sources */,
+				A56854AB27C7456800CD49B6 /* MonteCarlo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -307,8 +418,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A56854B427C7456800CD49B6 /* Wavefunctions.swift in Sources */,
+				A56854BC27C7456800CD49B6 /* PlotDataClass.swift in Sources */,
 				A568546B27C744F200CD49B6 /* Tests_iOSLaunchTests.swift in Sources */,
+				A568549C27C7456800CD49B6 /* CorePlot.swift in Sources */,
+				A56854A027C7456800CD49B6 /* ChangingPlotParameters.swift in Sources */,
+				A56854B027C7456800CD49B6 /* BoundingBox.swift in Sources */,
+				A568549827C7456800CD49B6 /* PlotView.swift in Sources */,
+				A56854A827C7456800CD49B6 /* CalculatePlotData.swift in Sources */,
 				A568546927C744F200CD49B6 /* Tests_iOS.swift in Sources */,
+				A56854A427C7456800CD49B6 /* PlotClass.swift in Sources */,
+				A56854B827C7456800CD49B6 /* DrawingView.swift in Sources */,
+				A56854AC27C7456800CD49B6 /* MonteCarlo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -316,8 +437,18 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A56854B527C7456800CD49B6 /* Wavefunctions.swift in Sources */,
+				A56854BD27C7456800CD49B6 /* PlotDataClass.swift in Sources */,
 				A568547727C744F200CD49B6 /* Tests_macOSLaunchTests.swift in Sources */,
+				A568549D27C7456800CD49B6 /* CorePlot.swift in Sources */,
+				A56854A127C7456800CD49B6 /* ChangingPlotParameters.swift in Sources */,
+				A56854B127C7456800CD49B6 /* BoundingBox.swift in Sources */,
+				A568549927C7456800CD49B6 /* PlotView.swift in Sources */,
+				A56854A927C7456800CD49B6 /* CalculatePlotData.swift in Sources */,
 				A568547527C744F200CD49B6 /* Tests_macOS.swift in Sources */,
+				A56854A527C7456800CD49B6 /* PlotClass.swift in Sources */,
+				A56854B927C7456800CD49B6 /* DrawingView.swift in Sources */,
+				A56854AD27C7456800CD49B6 /* MonteCarlo.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -455,7 +586,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = V59RVGUYZD;
+				DEVELOPMENT_TEAM = 37PA3332DC;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -485,7 +616,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = V59RVGUYZD;
+				DEVELOPMENT_TEAM = 37PA3332DC;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -517,7 +648,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = V59RVGUYZD;
+				DEVELOPMENT_TEAM = 37PA3332DC;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -528,7 +659,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MACOSX_DEPLOYMENT_TARGET = 12;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jtIIT.Overlap-Integrals";
 				PRODUCT_NAME = "Overlap Integrals";
@@ -546,7 +677,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = V59RVGUYZD;
+				DEVELOPMENT_TEAM = 37PA3332DC;
 				ENABLE_APP_SANDBOX = YES;
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
@@ -557,7 +688,7 @@
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
-				MACOSX_DEPLOYMENT_TARGET = 11.0;
+				MACOSX_DEPLOYMENT_TARGET = 12;
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.jtIIT.Overlap-Integrals";
 				PRODUCT_NAME = "Overlap Integrals";
@@ -573,7 +704,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = V59RVGUYZD;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -598,7 +729,7 @@
 				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = V59RVGUYZD;
+				DEVELOPMENT_TEAM = "";
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 15.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -625,7 +756,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = V59RVGUYZD;
+				DEVELOPMENT_TEAM = 37PA3332DC;
 				GENERATE_INFOPLIST_FILE = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -650,7 +781,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				COMBINE_HIDPI_IMAGES = YES;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_TEAM = V59RVGUYZD;
+				DEVELOPMENT_TEAM = 37PA3332DC;
 				GENERATE_INFOPLIST_FILE = YES;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -717,6 +848,40 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		A56854BE27C7458E00CD49B6 /* XCRemoteSwiftPackageReference "core-plot" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "http://github.com/core-plot/core-plot";
+			requirement = {
+				branch = "release-2.4";
+				kind = branch;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		A56854BF27C7458E00CD49B6 /* CorePlot */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A56854BE27C7458E00CD49B6 /* XCRemoteSwiftPackageReference "core-plot" */;
+			productName = CorePlot;
+		};
+		A56854C227C745D300CD49B6 /* CorePlot */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A56854BE27C7458E00CD49B6 /* XCRemoteSwiftPackageReference "core-plot" */;
+			productName = CorePlot;
+		};
+		A56854C427C745DD00CD49B6 /* CorePlot */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A56854BE27C7458E00CD49B6 /* XCRemoteSwiftPackageReference "core-plot" */;
+			productName = CorePlot;
+		};
+		A56854C627C745E000CD49B6 /* CorePlot */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = A56854BE27C7458E00CD49B6 /* XCRemoteSwiftPackageReference "core-plot" */;
+			productName = CorePlot;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = A568544D27C744F100CD49B6 /* Project object */;
 }
